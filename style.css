@@ -20,19 +20,19 @@ body{
 }
 
 .titulo2{
-    color: rgb(29, 29, 128);
+    color: rgb(146, 140, 126);
     font-family: 'Times New Roman', Times, serif;
 }
 
 .principal{
-    background-color: rgb(151, 174, 189);
+    background-color: rgb(146, 140, 126);
     padding: 30px;
     margin: 0px;
 
 }
 
 .beneficios{
-    background-color: rgb(173, 208, 209);
+    background-color: rgb(146, 140, 126);
     padding: 30px;
     margin: 0px;
 }
