@@ -13,8 +13,8 @@ body{
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: rgb(141, 156, 194);
-    background-color: rgb(56, 56, 110);
+    color: rgb(255, 255, 255);
+    background-color: rgb(146, 140, 126);
     padding: 20px;
     margin: 0px;
 }
