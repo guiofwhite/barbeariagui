@@ -21,6 +21,7 @@ body{
 }
 
 .titulo2{
+    text-align: center;
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
 }
