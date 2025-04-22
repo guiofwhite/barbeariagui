@@ -12,6 +12,7 @@ h1{
 button{
     border-bottom: 500px;
     border-style: none;
+    width: 300px;
 }
 
 a{
