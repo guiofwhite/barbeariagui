@@ -11,12 +11,10 @@ h1{
 
 button{
     border: 80px;
+    border-color: rgb(255, 0, 0);
 }
 
-nav a:hover{
-    color: #c71919;
-    text-decoration: underline;
-}
+
 
 
 
