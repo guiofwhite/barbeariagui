@@ -13,6 +13,11 @@ button{
     border: 80px;
 }
 
+nav a:hover{
+    color: #c71919;
+    text-decoration: underline;
+}
+
 
 
 
