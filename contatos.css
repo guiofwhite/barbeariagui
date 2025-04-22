@@ -11,7 +11,10 @@ h1{
 
 button{
     border-bottom: 200px;
-    border-color: rgb(255, 0, 0);
+}
+
+a{
+    color: rgb(255, 0, 0);
 }
 
 
