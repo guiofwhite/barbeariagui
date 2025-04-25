@@ -15,7 +15,7 @@ body{
     text-transform: uppercase;
     text-align: center;
     color: rgb(255, 255, 255);
-    background-color: rgb(146, 140, 126);
+    background-color: rgb(126, 126, 126);
     padding: 20px;
     margin: 0px;
 }
@@ -27,14 +27,14 @@ body{
 }
 
 .principal{
-    background-color: rgb(146, 140, 126);
+    background-color: rgb(126, 126, 126);
     padding: 30px;
     margin: 0px;
 
 }
 
 .beneficios{
-    background-color: rgb(146, 140, 126);
+    background-color: rgb(126, 126, 126);
     padding: 30px;
     margin: 0px;
 }
