@@ -34,6 +34,11 @@ form{
     background-color: #f9f9f9;
 }
 
+footer{
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
 
 
 
